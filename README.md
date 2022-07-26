@@ -1,10 +1,10 @@
 # TURMAE
 
-•Estou criando esse site sobre a Padaria Lê Rocha do zero.
+:chart_with_downwards_trend: :heart: :black_nib:•Estou criando esse site sobre a Padaria Lê Rocha do zero.
 
 •Estou usando html.
 
-•Estou programando sozinha.
+:raising_hand:•Estou programando sozinha.
 
-•Este é o link da minha página:
+:mag:•Este é o link da minha página:
 
