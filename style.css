@@ -112,15 +112,19 @@ form {
     margin: 40px 0;
 }
 
-form label, form mabel {
-    display: block;
-    font-size: 20px;
-    margin: 0 0 10px;
-}
-
 forn input, form p {
 	display:block;
 	margin: 0 0 20px;
 	padding: 10px 25px;
 	width: 50%;
+}
+
+.input-padrao {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.checkbox {
+	margin: 20px 0;
 }
